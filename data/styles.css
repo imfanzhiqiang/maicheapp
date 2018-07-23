@@ -92,6 +92,8 @@
 }
 .box_2 {
 }
+.box_3 {
+}
 .text_field1 {
   color:#000000;
   text-align:left;
@@ -116,5 +118,26 @@
   font-weight:400;
   font-style:normal;
   font-size:15px;
+  text-align:left;
+}
+.checkbox {
+  text-align:left;
+}
+.line2 {
+}
+.box_11 {
+}
+._34号字_单行列表内，左方主标题文字字） {
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:17px;
+  text-align:left;
+}
+._32号字_单行列表内，右方操作说明的文字__） {
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
   text-align:left;
 }
